@@ -1,0 +1,2 @@
+Churn is the measure of how many customers stop using a product. This can be measured based on actual usage or failure to renew (when the product is sold using a subscription model).
+Churn analysis is the computation of a company's customer loss rate in order to reduce it. Also referred to as customer attrition rate, churn can be minimized by analyzing your product.
